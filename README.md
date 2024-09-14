@@ -1,7 +1,7 @@
 # 풀인챈트 FullEnchant_KR
 Full Enchant Plugin for Minecraft Paper Server. 1.21 and 1.21.1 is only available now. (Korean only)
 마크 페이퍼 서버 전용 플러그인
-현재는 1.21과 1.21.1만 사용 가능합니다.
+현재는 1.21만 사용 가능합니다.
 
 ## 사용법 How to Use
 ex1. /곡괭이 | /pickaxe
