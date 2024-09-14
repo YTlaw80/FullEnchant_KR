@@ -1,0 +1,70 @@
+name: FullEnchant
+version: '1.0-Final'
+main: com.ytlaw80.fullEnchant.FullEnchant
+api-version: '1.21'
+
+commands:
+  Helmet:
+    description: Check Full Enchant for Helmets.
+    usage: /Helmet, /helmet, /hat, /cap, /투구, /헬멧, /모자
+    aliases: [helmet, hat, cap, 투구, 헬멧, 모자]
+  Chestplate:
+    description: Check Full Enchant for Chestplates.
+    usage: /Chestplate, /chestplate, /armor, /흉갑, /갑옷
+    aliases: [chestplate, armor, 흉갑, 갑옷]
+  Leggings:
+    description: Check Full Enchant for Leggings.
+    usage: /Leggings, /leggings, /pants, /레깅스, /각반, /바지
+    aliases: [leggings, pants, 레깅스, 각반, 바지]
+  Boots:
+    description: Check Full Enchant for Boots.
+    usage: /Boots, /boots, /shoes, /부츠, /신발
+    aliases: [boots, shoes, 부츠, 신발]
+  Sword:
+    description: Check Full Enchant for Swords.
+    usage: /Sword, /sword, /knife, /검, /칼
+    aliases: [sword, knife, 검, 칼]
+  Axe:
+    description: Check Full Enchant for Axes.
+    usage: /Axe, /axe, /도끼
+    aliases: [axe, 도끼]
+  Pickaxe:
+    description: Check Full Enchant for Pickaxes.
+    usage: /Pickaxe, /pickaxe, /곡괭이
+    aliases: [pickaxe, 곡괭이]
+  Shovel:
+    description: Check Full Enchant for Shovels.
+    usage: /Shovel, /shovel, /삽
+    aliases: [shovel, 삽]
+  Hoe:
+    description: Check Full Enchant for Hoes.
+    usage: /Hoe, /hoe, /괭이
+    aliases: [hoe, 괭이]
+  Shears:
+    description: Check Full Enchant for Shears.
+    usage: /Shears, /shears, /가위
+    aliases: [shears, 가위]
+  FishingRod:
+    description: Check Full Enchant for Fishing Rods.
+    usage: /FishingRod, /fishingrod, /낚싯대
+    aliases: [fishingrod, 낚싯대]
+  Bow:
+    description: Check Full Enchant for Bows.
+    usage: /Bow, /bow, /활
+    aliases: [bow, 활]
+  Crossbow:
+    description: Check Full Enchant for Crossbows.
+    usage: /Crossbow, /crossbow, /쇠뇌, /석궁
+    aliases: [crossbow, 쇠뇌, 석궁]
+  Trident:
+    description: Check Full Enchant for Tridents.
+    usage: /Trident, /trident, /삼지창
+    aliases: [trident, 삼지창]
+  Mace:
+    description: Check Full Enchant for Maces.
+    usage: /Mace, /mace, /철퇴, /망치
+    aliases: [mace, 철퇴, 망치]
+  Shield:
+    description: Check Full Enchant for Shields.
+    usage: /Shield, /shield, /방패
+    aliases: [shield, 방패]
