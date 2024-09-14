@@ -38,5 +38,4 @@ While I was on a SMP, my friends kept asking me about the biggest enchantments f
 야생 서버를 하고 있는 중에 자꾸 친구들이 도구별 최대 인챈트를 물어보는데, 다 말해주기 귀찮아서 만들었습니다.
 
 ## 지원 버전 Supported Versions
-1.21.1
 1.21
