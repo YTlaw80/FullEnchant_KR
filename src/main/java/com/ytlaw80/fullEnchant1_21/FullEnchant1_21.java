@@ -44,3 +44,5 @@ public final class FullEnchant1_21 extends JavaPlugin implements Listener {
     public void onDisable() {
     }
 }
+
+// commit test
